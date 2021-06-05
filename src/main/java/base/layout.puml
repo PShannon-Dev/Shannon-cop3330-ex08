@@ -1,0 +1,10 @@
+@startuml
+class App
+{
+total_People()
+pizza_Total()
+slices_per()
+print_pieces_per()
+leftover()
+}
+@enduml
